@@ -4,4 +4,4 @@
 
 Notebooks demonstrating the functionality of [lkilcommons/geospacepy-lite](http://github.com/lkilcommons/geospacepy-lite).
 
-Launch an interactive demo for playing with geospacepy-lite by clicking the binder icon above.
+You can run these notebooks without installing anything! Click the Binder badge above.
