@@ -4,4 +4,4 @@
 
 Notebooks demonstrating the functionality of [lkilcommons/geospacepy-lite](http://github.com/lkilcommons/geospacepy-lite).
 
-You can run these notebooks in the cloud without installing anything! Click the Binder badge above.
+You can run these notebooks in the cloud without installing anything! Click the Binder badge above. 
